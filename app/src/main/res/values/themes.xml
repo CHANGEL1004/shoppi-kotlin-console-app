@@ -9,6 +9,7 @@
         <item name="colorSecondary">@color/shoppi_pink_01</item>
         <item name="colorSecondaryVariant">@color/shoppi_pink_02</item>
         <item name="colorOnSecondary">@color/shoppi_black_01</item>
+        <item name="appBarLayoutStyle">@style/AppbarStyle</item>
 
         <item name="android:statusBarColor" tools:targetApi = "l">?attr/colorPrimaryVariant</item>
     </style>
@@ -17,4 +18,7 @@
         <item name="android:windowBackground">@drawable/background_splash_screen</item>
     </style>
     <style name="Theme.Shoppiandroid" parent="Base.Theme.Shoppiandroid" />
+    <style name="AppbarStyle" parent="Widget.Design.AppBarLayout">
+        <item name="android:background">@color/shoppi_white</item>
+    </style>
 </resources>
