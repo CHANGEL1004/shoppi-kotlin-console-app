@@ -1,18 +1,19 @@
-package com.shoppi.app
+package com.shoppi.app.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import java.util.zip.Inflater
+import com.shoppi.app.R
 
-class CategoryFragment: Fragment() {
+class ProductDetailFragment: Fragment() {
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return layoutInflater.inflate(R.layout.fragment_category, container, false)
+        return layoutInflater.inflate(R.layout.fragment_product_detail, container, false)
     }
 }

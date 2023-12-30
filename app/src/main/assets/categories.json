@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "category_id": "fashion_femail",
+      "label": "여성패션",
+      "thumnail_image_url": "https://github.com/CHANGEL1004/shoppi-kotlin-console-app/assets/107169027/f8310126-c3df-4801-90d8-e1e73acfb8d3",
+      "updated": false
+    },
+    {
+      "category_id": "fashion_mail",
+      "label": "남성패션",
+      "thumnail_image_url": "https://github.com/CHANGEL1004/shoppi-kotlin-console-app/assets/107169027/70bf40b9-8a0f-4ddc-b3d4-75d82a2e0117",
+      "updated": false
+    },
+    {
+      "category_id": "electronics",
+      "label": "가전/디지털",
+      "thumnail_image_url": "https://github.com/CHANGEL1004/shoppi-kotlin-console-app/assets/107169027/ea478a67-dbd0-4a69-b8a5-b0de5f061f49",
+      "updated": false
+    },
+    {
+      "category_id": "kids",
+      "label": "유아동",
+      "thumnail_image_url": "https://github.com/CHANGEL1004/shoppi-kotlin-console-app/assets/107169027/c6e3ab40-049f-4f17-a4ab-e55fd3eba96c",
+      "updated": false
+    },
+    {
+    "category_id": "sports",
+    "label": "스포츠/레저",
+    "thumnail_image_url": "https://github.com/CHANGEL1004/shoppi-kotlin-console-app/assets/107169027/c4ba01fd-e503-412c-88b4-3df96ac35ee8",
+    "updated": false
+    }
+
+  ]
+}
