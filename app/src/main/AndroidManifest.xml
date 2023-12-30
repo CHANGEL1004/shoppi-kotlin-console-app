@@ -16,12 +16,12 @@
         android:theme="@style/Theme.Shoppiandroid"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:exported="true">
 
         </activity>
 
-        <activity android:name=".SplashActivity"
+        <activity android:name=".ui.SplashActivity"
             android:exported="true"
             android:theme="@style/Theme.Shoppiandroid.Splash">
             <intent-filter>
